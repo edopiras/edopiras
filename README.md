@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Ciao, sono edopiras</h1>
 
-<!--
-**edopiras/edopiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Studente • Informatica • Crescita continua
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Chi sono
+
+Sono uno studente appassionato di informatica, interessato a capire come funzionano le tecnologie e a costruire progetti concreti.
+
+Mi piace imparare facendo, migliorarmi ogni giorno e trasformare le idee in qualcosa di reale.
+
+---
+
+## 💻 Ambito
+
+- Informatica in generale  
+- Sviluppo di progetti pratici  
+- Studio e sperimentazione  
+
+---
+
+## 🚀 Obiettivi
+
+- Migliorare costantemente le mie capacità  
+- Lavorare su progetti sempre più complessi  
+- Costruire qualcosa di concreto e utile  
+
+---
+
+## 📈 Attualmente
+
+- Studio e sviluppo personale  
+- Lavoro su progetti per migliorare le mie capacità  
+- Approfondisco il mondo dell’informatica  
+
+---
+
+## 🧠 Mindset
+
+> “La disciplina batte la motivazione.”
+
+---
+
+## 📫 Contatti
+
+- GitHub: https://github.com/tuo-username
+
+---
+
+## ⭐
+
+Se vuoi seguire il mio percorso, lascia una stella ai repository 🚀
