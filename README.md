@@ -21,15 +21,6 @@ Mi piace imparare facendo, migliorarmi ogni giorno e trasformare le idee in qual
 - Studio e sperimentazione  
 
 ---
-
-## 🚀 Obiettivi
-
-- Migliorare costantemente le mie capacità  
-- Lavorare su progetti sempre più complessi  
-- Costruire qualcosa di concreto e utile  
-
----
-
 ## 📈 Attualmente
 
 - Studio e sviluppo personale  
@@ -41,15 +32,3 @@ Mi piace imparare facendo, migliorarmi ogni giorno e trasformare le idee in qual
 ## 🧠 Mindset
 
 > “La disciplina batte la motivazione.”
-
----
-
-## 📫 Contatti
-
-- GitHub: https://github.com/tuo-username
-
----
-
-## ⭐
-
-Se vuoi seguire il mio percorso, lascia una stella ai repository 🚀
